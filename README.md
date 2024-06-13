@@ -31,5 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetzksk&show_icons=true&locale=en" alt="shwetzksk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetzksk&" alt="shwetzksk" /></p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="k-shweta-kumari-86a47418a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/k-shweta-kumari-86a47418a?trk=profile-badge">K Shweta Kumari</a></div>
+
               
